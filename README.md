@@ -1,5 +1,5 @@
 # The_Code_Colosseum
-Sem 5 python codes right into the box
+Semester 5 python codes right into the box. ( There could be new codes available in the future...this is old ).
 
 
 Uh, yeah.....For my reference in the future on how I learnt these stuffs.
